@@ -50,3 +50,10 @@ Each file contains:
 | Functions in JavaScript                    | [functions.js](8-functions/functions.js )                                   |
 | JavaScript's common built-in functions     | [built-in-functions.js](9-common-built-in-functions/built-in-functions.js ) |
 | Arrow Functions                            | [arrow-function.js](8-functions/arrow-function.js)                          |
+
+---
+
+## Other Sources
+
+- [https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial/](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial/)
+- [https://github.com/jfarmer/exercises-js-fundamentals](https://github.com/jfarmer/exercises-js-fundamentals)
