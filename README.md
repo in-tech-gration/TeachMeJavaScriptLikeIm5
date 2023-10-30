@@ -57,3 +57,4 @@ Each file contains:
 
 - [https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial/](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial/)
 - [https://github.com/jfarmer/exercises-js-fundamentals](https://github.com/jfarmer/exercises-js-fundamentals)
+- [https://github.com/dinanathsj29/javascript-exercise-beginners](https://github.com/dinanathsj29/javascript-exercise-beginners)
