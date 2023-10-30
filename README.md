@@ -55,4 +55,5 @@ Each file contains:
 
 ## Other Sources
 
-[https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial/](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial/)
+- [https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial/](https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial/)
+- [https://github.com/jfarmer/exercises-js-fundamentals](https://github.com/jfarmer/exercises-js-fundamentals)
