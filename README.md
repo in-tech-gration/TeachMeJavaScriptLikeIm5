@@ -59,3 +59,4 @@ Each file contains:
 - [https://github.com/jfarmer/exercises-js-fundamentals](https://github.com/jfarmer/exercises-js-fundamentals)
 - [https://github.com/dinanathsj29/javascript-exercise-beginners](https://github.com/dinanathsj29/javascript-exercise-beginners)
 - [https://github.com/sajidhamdard/learnjavascript/](https://github.com/sajidhamdard/learnjavascript/)
+- [https://github.com/KBPsystem777/JSexercises#add-up-the-numbers](https://github.com/KBPsystem777/JSexercises#add-up-the-numbers)
